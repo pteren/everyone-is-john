@@ -1,0 +1,31 @@
+my remix of Michael Sullivan's rpg "Everyone is John" https://rtwolf.github.io/Everyone-is-John/
+
+goals for this project: 
+- change the language to be more explicitly plural-friendly
+- remove dice and randomness from the game entirely, replacing them with an auction system
+- encourage cooperation as well as competition between players
+- get the GM in on the competition by having them bid against the other players when resolving John's actions
+
+**Alters**
+==========
+The Alters are the player characters. They are each a distinct person inhabiting the body collectively refered to as John. They take turns "fronting"- being temporarily in control of John's actions.
+
+An Alter wins by completing its goal
+
+Each Alter has a simple character sheet. find a piece of paper and write down:
+- Three goals the Alter has.
+- Two Knacks the Alter has. An Alter's Knacks give John an advantage against Everyone Else while that Alter is fronting.
+- One Flaw the Alter has. An Alter's Flaw gives Everyone Else an advantage against John while that Alter is fronting.
+
+  **Everyone Else**
+"Everyone Else" is the title given to the GM or narrator.
+
+Everyone Else wins by preventing the Alters from completing their goals.
+
+  **Setup**
+Each Alter gets 10 Willpower tokens. Everyone Else gets 10 Willpower tokens *for each Alter at the table.*
+
+  **Gameplay**
+Play begins with John waking up. Whenever this happens, the Alters bid for the right to front.
+
+The bidding starts at 1 Willpower. Any Alter can match or raise the bid as many times as it likes. If there is a tie, the other Alters vote on who will front. (In games with only two Alters, matching the bid is not allowed.) If one of the Alters doesn't like how they vote is going, they can interrupt it by raising the bid again. This 
