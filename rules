@@ -1,31 +1,74 @@
 my remix of Michael Sullivan's rpg "Everyone is John" https://rtwolf.github.io/Everyone-is-John/
 
+(
 goals for this project: 
 - change the language to be more explicitly plural-friendly
 - remove dice and randomness from the game entirely, replacing them with an auction system
 - encourage cooperation as well as competition between players
 - get the GM in on the competition by having them bid against the other players when resolving John's actions
+)
 
+==========
 **Alters**
 ==========
+
 The Alters are the player characters. They are each a distinct person inhabiting the body collectively refered to as John. They take turns "fronting"- being temporarily in control of John's actions.
 
-An Alter wins by completing its goal
+An Alter wins by completing its Drive.
 
-Each Alter has a simple character sheet. find a piece of paper and write down:
-- Three goals the Alter has.
-- Two Knacks the Alter has. An Alter's Knacks give John an advantage against Everyone Else while that Alter is fronting.
-- One Flaw the Alter has. An Alter's Flaw gives Everyone Else an advantage against John while that Alter is fronting.
+Each Alter has a simple character sheet. Find a piece of paper and write down:
+- One Drive the Alter has. This is a secret. You and Everyone Else should agree on a difficulty between 1 and 3 for your Drive.
+- Two Knacks the Alter has. What skills do you lend to John when you are fronting? (ex. driving, flirting, kung fu)
+- One Flaw the Alter has. What does John find impossible to do while you are fronting? (ex. lying, )
 
-  **Everyone Else**
-"Everyone Else" is the title given to the GM or narrator.
+=================
+**Everyone Else**
+=================
 
-Everyone Else wins by preventing the Alters from completing their goals.
+"Everyone Else" is the title given to the GM or narrator. Their role is to challenge the Alters by limiting John's power and introducing complications. Their 
 
-  **Setup**
-Each Alter gets 10 Willpower tokens. Everyone Else gets 10 Willpower tokens *for each Alter at the table.*
+Everyone Else wins by preventing the Alters from carrying out their Drive.
 
-  **Gameplay**
+=========
+**Setup**
+=========
+
+Each Alter gets 10 Willpower tokens. Everyone Else gets 5 Willpower tokens *for each Alter at the table.*
+
+============
+**Gameplay**
+============
+
 Play begins with John waking up. Whenever this happens, the Alters bid for the right to front.
 
-The bidding starts at 1 Willpower. Any Alter can match or raise the bid as many times as it likes. If there is a tie, the other Alters vote on who will front. (In games with only two Alters, matching the bid is not allowed.) If one of the Alters doesn't like how they vote is going, they can interrupt it by raising the bid again. This 
+The bidding starts at 1 Willpower. Any Alter can match or raise the bid as many times as it likes. If there is a tie, the other Alters vote on who will front. (In games with only two Alters, matching the bid is not allowed.) If one of the Alters doesn't like how they vote is going, they can interrupt it by raising the bid again. This should be a rowdy freeform affair with lots of bickering. 
+
+When one Alter eventually wins, it loses all the Willpower it bid and starts fronting. Whenever John is badly hurt (physically or emotionally), the fronting Alter steps down, or John wakes up from a nap, this bid to front happens again.
+
+While fronting, an Alter bids against Everyone Else when John attempts any difficult task. If Everyone Else deems the Alter's proposed action to have a chance of failure, they will start the bidding at 1 Willpower. The fronting Alter may big against them, and need only match the bid to win. Everyone Else may bid no more than 7 Willpower at a time.
+
+- If the Alter wins, it pays its bid to Everyone Else, who describes how John succeeds at the task. If one of the Alter's Knacks applies, it gets a 2 Willpower discount. (ex. if the Alter bid 3, it would only need to pay 1 Willpower.) 
+- If Everyone Else wins, they pay their bid to the fronting Alter, then describe how the situation gets worse for John. Generally, losing a bid should hinder the fronting Alter and require it to try a different approach. If Everyone Else spent 3 or more Willpower, they may declare John hurt and call for a new bid to front.
+
+John may not attempt anything which is affected by the fronting Alter's Flaw.
+
+When John is bored for a brief period of time (over 10 minutes, in universe), he takes a quick nap. Everyone Else should call for this any time John is waiting for something to happen or has nothing to do. When he wakes up, there is a new bid to front.
+
+The fronting Alter may voluntarily stop fronting at any time. When it does so, that Alter takes 1 Willpower and there is a new bid to front between the other Alters. the Alter who stepped down may not bid (but may still vote in case of ties).
+
+Alters may give each other Willpower at any time, for any reason.
+
+Whenever John fulfils any Alter's Drive, that Alter may immediately say "I score." It then makes a note of the circumstances on its character sheet. That Alter doesn't need to specify how the Drive was fulfilled, what its Drive is, or how many points it is worth. Once any Alter has 6 points towards its Drive (six, three, or two occurences depending on the difficulty), that Alter may claim victory.
+
+
+============
+**Game End**
+============
+
+The game ends when:
+- An Alter announces that they have 6 points towards their Drive (that Alter wins!)
+- Everyone Else runs out of Willpower (all Alters win!)
+- All the Alters run out of Willpower (Everyone Else wins!)
+- John dies (Everyone Else wins!)
+
+The victorious player should either brag insufferably or laugh along with everyone else in the spirit of collective fun- whichever fits your playgroup best.
